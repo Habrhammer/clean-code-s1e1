@@ -133,7 +133,7 @@ button:hover {
 }
 
 .task__input {
-  width: 226px
+  width: 226px;
 }
 
 .task__delete-btn .button__image {
@@ -147,13 +147,13 @@ button:hover {
 }
 
 #completed-tasks .task__label {
-  text-decoration: line-through
+  text-decoration: line-through;
   color: #888;
 }
 
 .tasks__item--editMode .task__input {
   display: inline-block;
-  width: 224px
+  width: 224px;
 }
 
 .tasks__item--editMode .task__label {
