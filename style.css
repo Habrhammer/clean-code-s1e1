@@ -9,7 +9,8 @@ ul {
   padding: 0px;
 }
 
-li, h3 {
+li,
+h3 {
   list-style: none;
 }
 
@@ -17,7 +18,8 @@ li > * {
   vertical-align: middle;
 }
 
-input, button{
+input,
+button{
   outline: none;
 }
 
@@ -62,7 +64,9 @@ button:hover {
   margin: 0 auto 0;
 }
 
-.add-task__input, .task__label, .task__input {
+.add-task__input,
+.task__label,
+.task__input {
   width: 56%;
   display: inline-block;
   flex-grow: 1;
@@ -76,7 +80,8 @@ button:hover {
   display: flex;
 }
 
-.add-task__title, .tasks__title {
+.add-task__title,
+.tasks__title {
   color: #333;
   font-weight: 700;
   font-size: 15px;
@@ -86,7 +91,8 @@ button:hover {
   text-transform: uppercase;
 }
 
-.add-task__input, .task__input {
+.add-task__input,
+.task__input {
   margin: 0;
   font-size: 18px;
   line-height: 18px;
@@ -99,7 +105,8 @@ button:hover {
   color: #888;
 }
 
-.add-task__input:focus, .task__input:focus {
+.add-task__input:focus,
+.task__input:focus {
   color: #333;
 }
 
