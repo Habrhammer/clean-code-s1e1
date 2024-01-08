@@ -10,15 +10,15 @@ ul {
 }
 
 li, h3 {
-  list-style:none;
+  list-style: none;
 }
 
 li > * {
-  vertical-align:middle;
+  vertical-align: middle;
 }
 
 input, button{
-  outline:none;
+  outline: none;
 }
 
 button {
@@ -152,10 +152,10 @@ button:hover {
 }
 
 .tasks__item--editMode .task__input {
-  display:inline-block;
-  width:224px
+  display: inline-block;
+  width: 224px
 }
 
 .tasks__item--editMode .task__label {
-  display:none;
+  display: none;
 }
